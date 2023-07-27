@@ -1,8 +1,7 @@
 # movie-bank
 An Android application built using Kotlin &amp; SQLite which also uses IMDb movie database API services. 
 
-Features:
-
+<h1><b>Key features: </b></h1>
 
 Home screen, displaying buttons that lead to different features in the app.
 
